@@ -1,0 +1,2 @@
+# screenshotWithPuppeteer
+使用puppeteer和koa做成node服务，把指定的业务界面截图并返回。

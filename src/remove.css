@@ -1,0 +1,17 @@
+.js-red-envelopes,
+.footer,
+header,
+#scroll-height,
+#detail-tab {
+    display: none !important;
+}
+.detail-list-box.detail-content {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.comm-intro {
+    margin: 0 !important;
+}
+.detail-content-list {
+    padding: 0;
+}
